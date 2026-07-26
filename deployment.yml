@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: comt-1
-          image: shaikmustafa/dm:v3
+          image: shaikmustafa/dm
           ports:
           - containerPort: 3000
